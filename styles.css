@@ -1,6 +1,11 @@
 body {
  color: rgb(0, 2, 8);
- background:rgb(13, 2, 43);
+ background:rgb(0, 2, 133);
  margin: 0px;
  font-family: "Merriweather", serif;
+}
+
+.container text-center{
+ padding-top: 20px;
+
 }
