@@ -6,7 +6,7 @@ body {
 }
 
 .container text-center{
-    background-color: rgb(121, 152, 192);
+    background: rgb(121, 152, 192);
  padding-top: 20px;
 
 }
