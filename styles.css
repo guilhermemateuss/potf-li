@@ -11,6 +11,10 @@ body {
     background-color: #C4D7E0
 }
 
+p {
+color: var(--cor-secundaria);
+}
+
 h1, h2, h5 {
     color: var(--cor-principal);
     font-weight: 700;}
