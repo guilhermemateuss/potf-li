@@ -1,15 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 :root {
-    --cor-principal: #6E859F;
-    --cor-secundaria: #284260;
-    --cor-destaque: #C92BFC;
+    --cor-principal: #bdc1c7;
+    --cor-secundaria: #0795c0;
+    --cor-destaque: #c20909;
 }
 
 body {
     font-family: 'Lato', sans-serif;
+    background-color: rgb(25, 67, 160);
 }
 
 h1, h2, h5 {
     color: var(--cor-secundaria);
-    font-weight: 700;
+    font-weight: 700;}
