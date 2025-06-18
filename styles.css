@@ -1,12 +1,11 @@
-body {
- color: rgb(0, 2, 8);
- background:rgb(0, 2, 133);
- margin: 0px;
- font-family: "Merriweather", serif;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+    --cor-principal: #6E859F;
+    --cor-secundaria: #284260;
+    --cor-destaque: #C92BFC;
 }
 
-.container text-center{
-    background: rgb(121, 152, 192);
- padding-top: 20px;
-
+body {
+    font-family: 'Lato', sans-serif;
 }
